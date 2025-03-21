@@ -1,9 +1,18 @@
-# React TypeScript Starter Pack
+# React To-Do List App
 
-To use this template click `Use this template`
+This is a simple and user-friendly To-Do List application built with React. It allows users to add, delete, and manage their tasks efficiently.
 
-### Available Scripts
+## Features
 
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
+- 📌 Add new tasks  
+- ✅ Mark tasks as completed  
+- ❌ Delete tasks  
+- 🔄 Interactive and responsive UI  
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+## Technologies Used
+
+- React
+- TypeScript
+- JavaScript (ES6+)  
+- SCSS 
+  
