@@ -16,3 +16,4 @@ This is a simple and user-friendly To-Do List application built with React. It a
 - JavaScript (ES6+)  
 - SCSS 
   
+  [DEMO LINK](https://hrebinets.github.io/react_todo_list/)
